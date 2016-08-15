@@ -26,6 +26,6 @@ optional environment variables:
 the Image have been build on the docker alpine base<br>
 * have a openjdk8 inside<br>
 * have mvn installed and configured
-* a docker daemon started as 
+* a docker daemon started 
 * a jenkins user configured as jnlp slave, also with permissions to run docker commands
 
